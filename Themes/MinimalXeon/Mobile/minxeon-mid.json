@@ -19,7 +19,7 @@
         "#593c50"
       ],
       "BACKGROUND_FLOATING": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MENTIONED": [
         "#7f658e"
@@ -37,70 +37,70 @@
         "transparent"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-        "#000000"
+        "#2f3135"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-        "#000000"
+        "#2f3135"
       ],
       "CHANNELS_DEFAULT": [
         "#9c9c9c"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
         "#664d74"
       ],
       "BACKGROUND_PRIMARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_SECONDARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-        "#000000"
+        "#2f3135"
       ],
       "BACKGROUND_TERTIARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BG_BASE_PRIMARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BG_BACKDROP": [
-        "#000000"
+        "#2f3135"
       ],
       "BG_BASE_SECONDARY": [
-        "#000000"
+        "#2f3135"
       ],
       "BG_BASE_TERTIARY": [
-        "#000000"
+        "#2f3135"
       ],
       "HOME_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "BORDER_FAINT": [
         "#6f5e7a"
@@ -112,16 +112,16 @@
         "#7C6C6C"
       ],
       "CARD_SECONDARY_BG": [
-        "#000000"
+        "#2f3135"
       ],
       "CARD_PRIMARY_BG": [
-        "#000000"
+        "#2f3135"
       ],
       "CHANNEL_ICON": [
         "#b99fc8"
       ],
       "EMBED_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "HEADER_PRIMARY": [
         "#b36dfb"
@@ -148,13 +148,13 @@
         "#e5d2fc"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [
         "#39343F"
@@ -166,10 +166,10 @@
         "#ecddfc"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "STATUS_DANGER": [
         "#f44444"
@@ -181,10 +181,10 @@
         "#FFFFFF"
       ],
       "POLLS_NORMAL_FILL_HOVER": [
-        "#000000"
+        "#2f3135"
       ],
       "POLLS_NORMAL_IMAGE_BACKGROUND": [
-        "#000000"
+        "#2f3135"
       ],
       "POLLS_VICTOR_FILL": [
         "#cc9ffe"
@@ -208,7 +208,7 @@
         "#202020"
       ],
       "KEYBOARD": [
-        "#000000"
+        "#2f3135"
       ]
     },
     "rawColors": {
@@ -227,7 +227,7 @@
       "BLUE_630": "#72578e",
       "BLUE_660": "#695184",
       "BLUE_700": "#654f7f",
-      "BLACK_500": "#000000b2",
+      "BLACK_500": "#2f3135b2",
       "BRAND_260": "#c493f2",
       "BRAND_300": "#bb8ce8",
       "BRAND_330": "#b184de",
@@ -253,7 +253,7 @@
       "PLUM_17": "#19131f",
       "PLUM_18": "#171223",
       "PLUM_19": "#1d1823",
-      "PLUM_20": "#000000",
+      "PLUM_20": "#2f3135",
       "PLUM_21": "#191421",
       "PLUM_22": "#1e1a25",
       "PLUM_24": "#1a1621",
@@ -345,7 +345,7 @@
       "WHITE_630": "#776767"
     },
     "background": {
-      "color": "#000000"
+      "color": "#2f3135"
     },
     "plus": {
       "version": "0",
